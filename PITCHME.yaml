@@ -1,0 +1,10 @@
+# テーマ設定
+theme : sky
+
+background-size : cover
+
+#トランジションの設定
+transition : convex
+
+#スライドのページ数表示の設定
+slide-number: true
