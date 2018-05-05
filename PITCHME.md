@@ -22,9 +22,8 @@ AWSのEC2インスタンスとしても採用
 ### CPUの動作モード  
 リングプロテクション  
 
-<img src="image/img003.png" width="200" height="200" >
-
 +++
+<img src="image/img003.png" width="180" height="180" >
 Ring0：カーネルモード  
 Ring3：ユーザーモード  
 
@@ -88,7 +87,7 @@ Ring3：ユーザーモード
 
 +++
 
-<img src="image/img001.jpg "width="800" height="600" >
+<img src="s_img001.png">
 
 +++
 
