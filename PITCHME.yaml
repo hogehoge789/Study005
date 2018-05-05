@@ -1,8 +1,6 @@
 # テーマ設定
 theme : blaek
 
-background-size : auto 70%
-
 layout : center-left
 
 #トランジションの設定
