@@ -1,10 +1,10 @@
 # テーマ設定
-theme : moon
+theme : night
 
 background-size : cover
 
 #トランジションの設定
-transition : convex
+transition : concave
 
 #スライドのページ数表示の設定
 slide-number: true
