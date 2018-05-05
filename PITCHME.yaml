@@ -1,7 +1,9 @@
 # テーマ設定
 theme : blaek
 
-background-size : auto 90%
+background-size : auto 70%
+
+layout : center-left
 
 #トランジションの設定
 transition : concave
