@@ -74,6 +74,7 @@ Ring3：ユーザーモード
 non-rootモードへの遷移をVM-Entry  
 rootモードへの遷移をVM-Exit  
 
+<img src="img/img002.png">
 
 ---
 
