@@ -1,7 +1,7 @@
 # テーマ設定
 theme : night
 
-background-size : cover
+background-size : auto 90%
 
 #トランジションの設定
 transition : concave
