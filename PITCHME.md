@@ -88,7 +88,7 @@ Ring3：ユーザーモード
 
 +++
 
-<img src="image/img005.png">
+<img src="image/img001.png">
 
 +++
 
@@ -125,6 +125,6 @@ CPUの仮想化については前述のCPU仮想化技術を利用しそれ以�
 
 +++
 
-<img src="image/img004.png" width="400" height="200" >
+<img src="image/img004.png" width="400" height="400" >
 
 ---
