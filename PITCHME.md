@@ -92,5 +92,5 @@ KVMはCPUでセンシティブ命令をフックするため、
 
 +++
 
--<img src="img/img001.png">
+<img src="img/img001.png">
 
