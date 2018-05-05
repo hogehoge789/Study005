@@ -21,7 +21,7 @@ AWSのEC2インスタンスとしても採用
 
 ### CPUの動作モード  
 リングプロテクション  
-<img src="image/img003.png">
+---?image=path/image/img003.png&size=auto 90%
 
 +++
 Ring0：カーネルモード  
