@@ -88,7 +88,7 @@ Ring3：ユーザーモード
 
 +++
 
-<img src="s_img001.png">
+<img src="image/img005.png">
 
 +++
 
@@ -121,10 +121,10 @@ KVMはCPUでセンシティブ命令をフックするため判定が不要で�
 CPUの仮想化については前述のCPU仮想化技術を利用しそれ以外の部分でQEMUを使っている  
 (メモリやディスクI/Oの仮想化など)  
 
-VMの管理機能としてlibvirtを採用している。
+ゲストOSの管理機能としてlibvirtを採用している。
 
 +++
 
-<img src="image/img004.png">
+<img src="image/img004.png" width="400" height="200" >
 
 ---
