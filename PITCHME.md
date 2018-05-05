@@ -88,7 +88,7 @@ Ring3：ユーザーモード
 
 +++
 
-<img src="image/img001.png "width="700" height="700" >
+<img src="image/img001.png "width="800" height="600" >
 
 +++
 
