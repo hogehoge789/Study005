@@ -91,7 +91,7 @@ Ring3：ユーザーモード
 
 +++
 
-<img src="image/img001.png" width="250" height="250" >
+<img src="image/img006.png" width="500" height="500" >
 
 +++
 
