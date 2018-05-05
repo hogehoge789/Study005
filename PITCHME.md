@@ -76,6 +76,10 @@ rootモードへの遷移をVM-Exit
 
 <img src="img/img002.png">
 
++++
+
+<img src="img/AddPitchmeYaml.png">
+
 ---
 
 ### QEMU
