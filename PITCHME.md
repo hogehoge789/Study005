@@ -21,7 +21,10 @@ AWSのEC2インスタンスとしても採用
 
 ### CPUの動作モード  
 リングプロテクション  
----?image=path/image/img003.png&size=auto 90%
+
++++
+
+<img src="image/img003.png">
 
 +++
 Ring0：カーネルモード  
@@ -86,6 +89,10 @@ Ring3：ユーザーモード
 
 +++
 
+<img src="image/img001.png">
+
++++
+
 バイナリトランスレーションのようなオーバヘッドがなく、OS改変も不要
 
 +++
@@ -93,7 +100,7 @@ Ring3：ユーザーモード
 non-rootモードへの遷移をVM-Entry  
 rootモードへの遷移をVM-Exit  
 
-<img src="img/img002.png">
+<img src="image/img002.png">
 
 +++
 
@@ -118,9 +125,3 @@ CPUの仮想化については前述のCPU仮想化技術を利用しそれ以�
 VMの管理機能としてlibvirtを採用している。
 
 +++
-
-<img src="img/img001.png">
-
-+++
-
----?image=img/img001.png
