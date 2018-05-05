@@ -24,7 +24,7 @@ AWSのEC2インスタンスとしても採用
 
 +++
 
-<img src="image/img003.png">
+<img src="image/img003.png" width="200" height="400" >
 
 +++
 Ring0：カーネルモード  
